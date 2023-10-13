@@ -30,8 +30,16 @@ Abstraction: Abstract classes define common methods, while concrete classes prov
 Composition: Cars and Customers are composed of various attributes, demonstrating the composition relationship.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+How to use?
+-> Download the Rental.exe file , click on the icon Command Line Interface will open up :)
+
+
+
 Contribution
 Contributions are welcome! If you find a bug or have a suggestion for improvement, please create an issue or a pull request.
+
 
 
 
