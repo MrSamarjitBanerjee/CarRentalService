@@ -37,7 +37,8 @@ How to use?
 
 
 
-Contribution
+Contribution :
+
 Contributions are welcome! If you find a bug or have a suggestion for improvement, please create an issue or a pull request.
 
 
