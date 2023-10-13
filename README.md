@@ -1,6 +1,6 @@
 # CarRentalService
 
-![image](https://github.com/MrSamarjitBanerjee/CarRentalService/assets/147799102/e2752d85-a48f-4155-9e98-f3b71a904d61)
+  ![image](https://github.com/MrSamarjitBanerjee/CarRentalService/assets/147799102/e2752d85-a48f-4155-9e98-f3b71a904d61)
 
   🚗 Console-Based Car Rental Java Application 🚗
   
